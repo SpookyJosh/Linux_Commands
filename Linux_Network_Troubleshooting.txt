@@ -1,0 +1,7 @@
+bmon --> Simple bandwidth monitoring tool in Linux which provides graphical views of usage
+iptraf-ng --> Network traffic monitoring utility in Linux
+iperf3 --> Network performance throughput benchmarking tool
+ncdu --> Analyzes disk usage and provides a listing of files and their storage consumption. Similar to du but with a cleaner UI
+duf --> Utility for displaying disks and their associated capacity and usage
+rescuezilla --> Linux utility which creates a backup image of a system and allows for simple restore
+https://www.phoronix-test-suite.com/ --> Benchmarking utility for Linux
