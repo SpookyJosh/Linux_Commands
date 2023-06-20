@@ -1,0 +1,3 @@
+#visudo sample
+
+some-user-name ALL=(ALL) NOPASSWD: /path/to/binary1, /path/to/binary2, ...
